@@ -2,7 +2,7 @@
 This is a Demo for Git and Github class.
 
 # Teacher
-Shradha Khapra.
+Shradha Khapra
 
 # Student
 Prajyot Desai
